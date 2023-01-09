@@ -1,0 +1,27 @@
+.nav-container{
+    background-color: #131212;
+    padding: 20px 0px 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position:sticky;
+    top: 0;
+    max-height: 70px;
+}
+.nav-title{
+    color:#fff;
+    font-size: 25px;
+    font-family: 'Silkscreen', cursive;
+    position:relative;
+    top: -9px;
+    text-shadow: 2.2px 2.2px 1px #d1d;
+}
+
+.nav-menu-symbol{
+    font-size: 40px;
+    color: #d1d;
+    align-self: flex-end;
+    position: relative;
+    top: -10px;
+    padding-right: 20px;
+}
