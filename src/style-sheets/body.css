@@ -1,3 +1,30 @@
+.content{
+    background-image: url(C:\Users\Danie\OneDrive\Escritorio\df\src\images\fondo2.jpeg);
+}
+
+.b-icon-t-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -140px;
+    margin-top: -40px;
+}
+
+.b-icon-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#fff;
+    font-size: 40px;
+    padding: 20px;
+    font-family: 'Silkscreen', cursive;
+    text-shadow: 3px 3px 1px #d1d;
+    background-color: #222;
+    border-radius: 25px;
+    border: solid #000;
+
+}
+
 .b-icon-grid{
     margin-top: 100px;
     display: flex;
@@ -19,11 +46,9 @@
 }
 
 .icon-image{
-    width: 250px;
+    width: 260px;
     height: 270px;
 }
-
-
 
 .b-icon-tittle{
     color: #000;
@@ -31,4 +56,9 @@
     font-family: 'Silkscreen', cursive;
     text-align: center;
 
+}
+
+.b-icon-title{
+    font-family: 'Silkscreen', cursive;
+    margin: 50px;
 }

@@ -3,7 +3,7 @@ import '../style-sheets/nav.css'
 function Nav(){
     return(
             <div className='nav-container'>
-                <p className='nav-title'>Daniel F. Docs</p>
+                <p className='nav-title'>Daniel Flores</p>
                 <span className='material-symbols-outlined nav-menu-symbol'>menu</span>
             </div>  
         )

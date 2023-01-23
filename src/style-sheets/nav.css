@@ -1,5 +1,5 @@
 .nav-container{
-    background-color: #131212;
+    background-color: #151515;
     padding: 20px 0px 0px 20px;
     display: flex;
     flex-wrap: wrap;
@@ -16,6 +16,9 @@
     top: -9px;
     text-shadow: 2.2px 2.2px 1px #d1d;
 }
+.nav-title:hover{
+    cursor: default;
+}
 
 .nav-menu-symbol{
     font-size: 40px;
@@ -24,4 +27,7 @@
     position: relative;
     top: -10px;
     padding-right: 20px;
+}
+.nav-menu-symbol:hover{
+    cursor:pointer;
 }
