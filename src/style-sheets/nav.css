@@ -19,15 +19,3 @@
 .nav-title:hover{
     cursor: default;
 }
-
-.nav-menu-symbol{
-    font-size: 40px;
-    color: #d1d;
-    align-self: flex-end;
-    position: relative;
-    top: -10px;
-    padding-right: 20px;
-}
-.nav-menu-symbol:hover{
-    cursor:pointer;
-}

@@ -34,10 +34,6 @@ function Body(props){
                     language='github'
                     tittle='github'
                 />
-                <Icon
-                    language='linkedin'
-                    tittle='linkedin'
-                />
             </div>
             <br/>
             <div className='b-icon-t-container'>
